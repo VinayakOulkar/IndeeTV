@@ -30,6 +30,10 @@ npm run serve
 
 ![Screenshot 2024-05-11 164356](https://github.com/VinayakOulkar/IndeeTV/assets/128286075/e601b77d-3f0f-48e9-9314-d15760b8f508)
 
+### Forgot password alert
+
+![Screenshot 2024-05-12 024459](https://github.com/VinayakOulkar/IndeeTV/assets/128286075/62079771-e76d-4df1-ad6a-63f96c8415d9)
+
 ### Successful Sign-In
 
 ![Screenshot 2024-05-11 164451](https://github.com/VinayakOulkar/IndeeTV/assets/128286075/ed61a89d-984c-4412-9349-4ef42ab38128)
