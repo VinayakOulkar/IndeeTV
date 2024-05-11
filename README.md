@@ -13,6 +13,11 @@ npm install toastify-js
 npm run serve
 ```
 
+### Google Drive [Video]
+```
+https://drive.google.com/drive/folders/1yZzc0X51HPTIxSje5aMXAsIrAflk-ZeK?usp=sharing
+```
+
 ### Initial Page
 
 ![Screenshot 2024-05-11 164306](https://github.com/VinayakOulkar/IndeeTV/assets/128286075/0ae93923-3e86-44e2-bd59-367ef0a96794)
