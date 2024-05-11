@@ -16,5 +16,8 @@ npm install toastify-js
 npm run serve
 ```
 
+##Initial Page
+![Uploading Screenshot 2024-05-11 164306.png…]()
+
 
 
