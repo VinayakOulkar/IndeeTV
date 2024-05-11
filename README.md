@@ -17,7 +17,7 @@ npm run serve
 
 <a href="https://drive.google.com/drive/folders/1yZzc0X51HPTIxSje5aMXAsIrAflk-ZeK?usp=sharing" target="_blank">Click here to see Video<a>
 
-### Screenshots
+### Screenshots:
 ### Initial Page
 
 ![Screenshot 2024-05-11 164306](https://github.com/VinayakOulkar/IndeeTV/assets/128286075/0ae93923-3e86-44e2-bd59-367ef0a96794)
