@@ -29,6 +29,10 @@ npm run serve
 
 ![Screenshot 2024-05-11 164451](https://github.com/VinayakOulkar/IndeeTV/assets/128286075/ed61a89d-984c-4412-9349-4ef42ab38128)
 
+### Supports responsiveness for every device
+
+![Screenshot 2024-05-11 185942](https://github.com/VinayakOulkar/IndeeTV/assets/128286075/9b10c59c-f36d-40f7-a0fa-a76cc0fd8282)
+
 
 
 
