@@ -14,9 +14,8 @@ npm run serve
 ```
 
 ### Google Drive [Video]
-```
+
 <a href="https://drive.google.com/drive/folders/1yZzc0X51HPTIxSje5aMXAsIrAflk-ZeK?usp=sharing">Click here to see Video<a>
-```
 
 ### Initial Page
 
